@@ -201,10 +201,6 @@ Sous l'onglet Installed Packages, vous verrez la liste des packages installés s
 Si des mises à jour sont disponibles pour certains packages, une icône de mise à jour apparaîtra à côté du nom du package. Cliquez sur cette icône pour mettre à jour le package concerné. 
 
 
-Et voilà ! 🎉 Ton firewall pfSense est maintenant opérationnel et prêt à sécuriser ton réseau. Si tu veux ajouter des détails ou des configurations spécifiques, fais-le-moi savoir ! 😊
-
-
-
 Filtrer des éléments spécifiques à l'intérieur des sites web n'est pas la fonction d'un pare-feu. C'est plutôt le travail d'un plugin/script de navigateur. Je veux dire, comment un pare-feu saurait-il rechercher des mots clés dans un site web ?
 
 Vous pouvez bloquer des sites web entiers en utilisant quelque chose comme pfBlockerNG basé sur les domaines et leur type de page en utilisant DNSBL, mais un pare-feu n'est pas un rendu de site web. Sans une sorte d'agent logiciel sur votre PC, il n'aurait aucune idée de ce que vous regardez.
