@@ -11,31 +11,19 @@ Schéma type d’un réseau
 schéma 1.
 
 
-Qu'est-ce qu'un pare-feu ?
-
+**Qu'est-ce qu'un pare-feu ?**
 
 Un pare-feu est un dispositif de sécurité, matériel ou logiciel, qui surveille et contrôle le trafic réseau entrant et sortant en fonction de règles de sécurité prédéfinies. Il agit comme une barrière entre un réseau interne sécurisé et des réseaux externes potentiellement dangereux, tels qu'Internet.
 
-Pourquoi en avons-nous besoin ?
+**Pourquoi en avons-nous besoin ?**
 
 Protéger contre les menaces externes : Les pare-feu empêchent les tentatives d'accès non autorisées à vos systèmes en bloquant les connexions suspectes ou malveillantes.
 
-
 Filtrer le contenu : Ils permettent de restreindre l'accès à des sites ou services non sécurisés, limitant ainsi l’exposition aux menaces comme les logiciels malveillants.
-
 
 Empêcher les attaques ciblées : Les pare-feu peuvent détecter et bloquer les activités suspectes, comme les attaques par déni de service (DDoS) ou les intrusions.
 
-
 Protéger les données sensibles : En empêchant les cybercriminels d’accéder aux réseaux internes, ils réduisent le risque de fuite ou de vol de données.
-
-
-
-
-
-
-
-
 
 
 
