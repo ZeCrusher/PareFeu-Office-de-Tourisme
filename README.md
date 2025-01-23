@@ -26,14 +26,7 @@ Empêcher les attaques ciblées : Les pare-feu peuvent détecter et bloquer les 
 Protéger les données sensibles : En empêchant les cybercriminels d’accéder aux réseaux internes, ils réduisent le risque de fuite ou de vol de données.
 
 
-
-
-
-
-
-
-
-Prérequis
+## Prérequis
 Matériel nécessaire :
 Un PC dédié pour pfSense (avec un processeur 64 bits, au moins 4 Go de mémoire et un SSD recommandé). Nous pouvons facilement utiliser les anciens ordinateurs LENOVO. Ils sont largement suffisants pour héberger l’OS de PfSense. Et surtout déjà disponibles et interchangeables. 
 
