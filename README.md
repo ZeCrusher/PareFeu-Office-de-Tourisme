@@ -1,9 +1,9 @@
 # PareFeu-Office-de-Tourisme
-Recyclage et installation d'un Parefeu
+**Recyclage et installation d'un Parefeu**
 
 
 
-Installation et configuration d’un pare-feu
+## Installation et configuration d’un pare-feu 
 avec PfSense
 
 Schéma type d’un réseau 
