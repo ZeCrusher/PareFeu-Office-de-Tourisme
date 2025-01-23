@@ -3,12 +3,13 @@
 
 
 
-## Installation et configuration d’un pare-feu 
-avec PfSense
+## Installation et configuration d’un pare-feu avec PfSense
 
 Schéma type d’un réseau 
 
+![Capture d'écran 2025-01-23 100640](https://github.com/user-attachments/assets/2480a606-7c74-4a76-b124-15c6f50ebd89)
 schéma 1.
+
 
 Qu'est-ce qu'un pare-feu ?
 
